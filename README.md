@@ -1,2 +1,1 @@
-# my-first-website
-new to this 
+# My first website on internet
